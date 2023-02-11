@@ -1,6 +1,6 @@
-# Creating web apps Pokemon List using sveltekit and Tailwind CSS
+# Creating web apps Pokemon List using sveltekit js and Tailwind CSS
 
-Thanks to for helping learn about Sveltekit [Jeffrey Codes Javascript](https://www.youtube.com/@jeffrey_codes)
+Thanks to for helping learn about Sveltekit using TS [Jeffrey Codes Javascript](https://www.youtube.com/@jeffrey_codes)
 
 # Tailwind CSS
 
